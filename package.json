@@ -1,5 +1,5 @@
 {
-  "name": "iuion-ecs",
+  "name": "iuion_ecs",
   "version": "1.0.0",
   "date":"2018-12-12",
   "description": "",
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "https://github.com/randscar/iuion/tree/master/ts/iuion/npmjs/"
   },
-  "keywords": ["iuion-ecs"],
+  "keywords": ["iuion_ecs"],
   "author": "randscar",
   "license": "MIT",
   "bugs": {
