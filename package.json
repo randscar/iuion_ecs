@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "date":"2018-12-12",
   "description": "",
-  "main": "index.js",
+  "main": "ECS.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "index.js",
-    "index.d.ts",
     "out/**/*.js",
     "out/**/*.d.ts",
     "src/**.ts",
@@ -19,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/randscar/iuion/tree/master/ts/iuion/npmjs/"
+    "url": "https://github.com/randscar/iuion_ecs.git"
   },
   "keywords": ["iuion_ecs"],
   "author": "randscar",
@@ -27,6 +25,6 @@
   "bugs": {
     "url": "http://iuion.com"
   },
-  "homepage": "https://github.com/randscar/iuion/tree/master/ts/iuion/npmjs/"
+  "homepage": "https://github.com/randscar/iuion_ecs/"
 }
 
