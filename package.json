@@ -1,0 +1,32 @@
+{
+  "name": "iuion-ecs",
+  "version": "1.0.0",
+  "date":"2018-12-12",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "out/**/*.js",
+    "out/**/*.d.ts",
+    "src/**.ts",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randscar/iuion/tree/master/ts/iuion/npmjs/"
+  },
+  "keywords": ["iuion-ecs"],
+  "author": "randscar",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://iuion.com"
+  },
+  "homepage": "https://github.com/randscar/iuion/tree/master/ts/iuion/npmjs/"
+}
+
