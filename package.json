@@ -1,17 +1,17 @@
 {
   "name": "iuion_ecs",
-  "version": "1.0.0",
-  "date":"2018-12-12",
+  "version": "1.0.1",
+  "date": "2018-12-12 14:32",
   "description": "",
-  "main": "ECS.js",
+  "main": "bin/ECS.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "files": [
-    "out/**/*.js",
-    "out/**/*.d.ts",
+    "bin/**/*.js",
+    "bin/**/*.d.ts",
     "src/**.ts",
-    "README.md",
+    "readme.md",
     "LICENSE",
     "package.json"
   ],
@@ -19,12 +19,14 @@
     "type": "git",
     "url": "https://github.com/randscar/iuion_ecs.git"
   },
-  "keywords": ["iuion_ecs"],
+  "keywords": [
+    "iuion_ecs"
+  ],
   "author": "randscar",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
-    "url": "http://iuion.com"
+    "url": "https://github.com/randscar/iuion_ecs/issues"
   },
-  "homepage": "https://github.com/randscar/iuion_ecs/"
+  "homepage": "https://github.com/randscar/iuion_ecs/",
+  "dependencies": {}
 }
-
