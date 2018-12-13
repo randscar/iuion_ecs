@@ -14,7 +14,6 @@
     "noImplicitThis": false,
     "alwaysStrict": false,
     "stripInternal": false,
-    "importHelpers": false,
-    "types": ["node"]
+    "importHelpers": false
   }
 }
