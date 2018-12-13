@@ -10,7 +10,6 @@ export class _cb{
     args:any[];
     /** [private] 标识状态的数据，0为未使用，1为使用 */
     __=0;
-    
 
     public static _pools:any[]=[];
     /**

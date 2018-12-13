@@ -1,4 +1,3 @@
-import { Entity } from "./Entity";
 import { Inode } from "./Inode";
 /** 组件接口 */
 export interface i_base{

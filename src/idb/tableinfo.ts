@@ -1,5 +1,3 @@
-import { dbutil } from "./dbutil";
-
 export class tableinfo{
     /** 表名 */
     public tableName: String;

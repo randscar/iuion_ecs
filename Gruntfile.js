@@ -87,5 +87,5 @@ module.exports = function (grunt) {
     //grunt.registerTask('concat2', ["concat"]);
     grunt.registerTask('make', ["ts:build","ts:idb","uglify:min"]);
 };
-
+//grunt make --force
 

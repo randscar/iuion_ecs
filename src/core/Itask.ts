@@ -1,6 +1,5 @@
 import { ECS } from "./ECS";
 import { Inode } from "./Inode";
-import { Entity } from "./Entity";
 import { _cb } from "./_cb";
 
 

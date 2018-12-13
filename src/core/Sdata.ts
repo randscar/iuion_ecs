@@ -1,6 +1,4 @@
 import { Entity } from "./Entity";
-import { Ilog } from "./Ilog";
-import { ECS } from "./ECS";
 
 
 /*** 全部数据管理类 （每条数据需要继承Entity来实现） */
