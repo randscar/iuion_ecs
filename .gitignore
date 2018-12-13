@@ -39,6 +39,13 @@ $RECYCLE.BIN/
 .Trashes
 .VolumeIcon.icns
 
+Gruntfile.js
+package-lock.json
+publish.bat
+publish.js
+readme_grunt.md
+
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
@@ -49,3 +56,4 @@ Temporary Items
 .vscode
 .tscache
 node_modules
+a
