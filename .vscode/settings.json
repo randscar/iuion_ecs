@@ -1,7 +1,0 @@
-{
-    "files.exclude": {
-        "node_modules/**": true
-      },
-    "git.ignoreMissingGitWarning": true,
-    "typescript.tsdk": "D:\\backup\\nodejs\\node_global\\node_modules\\typescript\\lib"
-}
